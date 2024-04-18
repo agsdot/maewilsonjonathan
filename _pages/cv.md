@@ -11,5 +11,5 @@ To highlight, education and career and internship items include.
 
 Enjoy reading the below cv, and look forward to getting in contact with you.
 
-<embed src="/assets/cv/sample-cv.pdf" type="application/pdf" style="height: 800px;" />
+<embed src="{{site.baseurl}}/assets/cv/sample-cv.pdf" type="application/pdf" style="height: 800px;" />
 
