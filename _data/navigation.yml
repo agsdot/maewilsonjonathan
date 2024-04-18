@@ -1,11 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
   #  - title: "Categories"
   #    url: /categories/
   #  - title: "Tags"
   #    url: /tags/
   - title: "About"
     url: /about/
+  - title: "CV"
+    url: /assets/cv/sample-cv.pdf
+  - title: "Posts"
+    url: /posts/
   - title: "Contact"
     url: /contact/
