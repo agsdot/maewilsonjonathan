@@ -43,11 +43,11 @@ include:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-include-cache
-  - jekyll-pdf-embed
+  #- jekyll-gist
+  #- jemoji
+  #- jekyll-pdf-embed
 
 author:
   name   : "Jane Stanford"
