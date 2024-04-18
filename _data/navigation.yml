@@ -6,7 +6,7 @@ main:
   - title: "About"
     url: /about/
   - title: "CV"
-    url: /assets/cv/sample-cv.pdf
+    url: /cv/
   - title: "Posts"
     url: /posts/
   - title: "Contact"
